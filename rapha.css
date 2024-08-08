@@ -5,3 +5,8 @@ body{
 p{
     color: rgb(255, 255, 255);
 }
+
+.bola {
+font-style: italic;
+color: rgb(251, 255, 0);
+}
