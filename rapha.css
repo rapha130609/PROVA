@@ -13,4 +13,5 @@ color: rgb(251, 255, 0);
 }
 
 .imgl {
-    width: 150;
+    width: 150%;
+}
